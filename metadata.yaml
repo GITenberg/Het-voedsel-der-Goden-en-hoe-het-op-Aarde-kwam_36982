@@ -1,0 +1,38 @@
+_repo: Het-voedsel-der-Goden-en-hoe-het-op-Aarde-kwam_36982
+_version: 0.1.0
+alternative_title: The Food of the Gods and how it came to earth. Dutch
+contributor:
+  translator:
+    agent_name: Kuylman, J.
+    gutenberg_agent_id: '33403'
+    url: http://www.gutenberg.org/2009/agents/33403
+covers:
+- cover_type: archival
+  image_path: 36982-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Wells, H. G. (Herbert George)
+    alias: Wells, Herbert George
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '30'
+    url: http://www.gutenberg.org/2009/agents/30
+    wikipedia: http://en.wikipedia.org/wiki/H._G._Wells
+description: ''
+gutenberg_issued: '2011-08-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36982'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Growth factors -- Fiction'
+- !lcsh 'Agriculture -- Experimentation -- Fiction'
+- !lcsh 'Food supply -- Fiction'
+- !lcsh 'Giants -- Fiction'
+- !lcsh 'Science fiction'
+title: Het voedsel der Goden en hoe het op Aarde kwam
+url: http://www.gutenberg.org/ebooks/36982
